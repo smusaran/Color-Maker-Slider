@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9B2F9D71989C291D9585D81C87A2345374B470E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "460DABF1A4DB85BD016D7C05EB9258867E41360F" : 9223372036854775807,
+    "9B2F9D71989C291D9585D81C87A2345374B470E7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BF55A676-2419-4C87-8327-B51AC3800995",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "460DABF1A4DB85BD016D7C05EB9258867E41360F" : "",
+    "9B2F9D71989C291D9585D81C87A2345374B470E7" : "Color%20Maker%20Slider\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Color Maker Slider",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Color Maker Slider\/Color Maker Slider.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smusaran\/PitchPerfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "460DABF1A4DB85BD016D7C05EB9258867E41360F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smusaran\/Color-Maker-Slider.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B2F9D71989C291D9585D81C87A2345374B470E7"
+    }
+  ]
+}
